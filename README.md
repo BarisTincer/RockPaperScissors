@@ -4,12 +4,9 @@
 #### RockPaperScissors
 ##### RockPaperScissors
 ###### RockPaperScissors
-Burada # ile 6 farklı boyutta başlık oluşturabiliriz.
-Burada # ile 6 farklı boyutta başlık oluşturabiliriz. [MarkDown Cheet Sheat](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+Burada # ile 6 farklı boyutta başlık oluşturabiliriz. / Here we can create 6 different size headers with #. [MarkDown Cheet Sheat](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
-**Not:** bu bir not.
-
-**Not:** ALTGR + ; + ; ile `` işareti yapılır
+**Not:** ALTGR + ; + ; ile `` işareti yapılır / ALTGR + ; + ; with `` sign
 ----
 ![githubresmi](https://pbs.twimg.com/profile_images/14140564408262661/r6YemvF9_400x400.jpg)
 ----
@@ -26,14 +23,3 @@ switch(random)
                         computerMove = "scissors";
                         break;
                 }
-----
-## İller - İlçeler
-- Ankara
-  - Çankaya
-    - Kızılay
-  - Bilkent
-  - Keçiören
-  - Yenimahalle
-- İstanbul
-- Eskişehir
-- İzmir
